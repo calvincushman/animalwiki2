@@ -1,1 +1,4 @@
-$(function())
+$(function() {
+  var animal = ('#animal-select')
+    
+})

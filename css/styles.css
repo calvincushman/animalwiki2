@@ -1,3 +1,7 @@
-#turkey-info, #frog-info, #bacteria-info {
+.turkey-info, .frog-info, .bacteria-info {
   display: none;
+}
+
+img {
+  width: 300px;
 }
